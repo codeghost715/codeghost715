@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeghost715
 - 👀 I’m interested in getting a better job
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C+
 - 💞️ I’m looking to collaborate on anything helpful
 - 📫 How to reach me, message me
 
